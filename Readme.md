@@ -1,4 +1,4 @@
-# <h1 align = "center">DoctorApp Spring_Boot & Using  mySql</h1>
+# <h1 align = "center">DoctorApp Using Spring_Boot & mySql</h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -100,8 +100,8 @@ ___
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Deepak kumar singh   -
-- Maild Id : deepak76311@gmail.com
+For questions or feedback, please contact : avadhesh Shukla   -
+- Maild Id : avadheshsukla1636@gmail.com
 
 <h1 align="center">Thank You...<h1>
 <h3 align = "center"> ***********************************************************<h3>
