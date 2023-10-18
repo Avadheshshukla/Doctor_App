@@ -1,4 +1,4 @@
-# <h1 align = "center">DoctorApp Using Spring_Boot & mySql</h1>
+# <h1 align = "center">DoctorApp Using Spring_Boot & MySQL </h1>
 ___ 
 <p align="center">
 <a href="Java url">
